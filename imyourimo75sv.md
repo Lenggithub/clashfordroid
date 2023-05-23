@@ -183,7 +183,7 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 🇰🇭 27.05.23(ML)
-      - 🇸🇬 (ML)
+      - 🇸🇬 (MLB)
       - 🇸🇬VIP ML
       - 【VIP】ML
       - 🇮🇳_IN_印度VIP ML
@@ -264,7 +264,7 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 🇰🇭 27.05.23(ML)
-      - 🇸🇬 (ML)
+      - 🇸🇬 (MLB)
       - 🇸🇬VIP ML
       - 【VIP】ML
       - 🇮🇳_IN_印度VIP ML
@@ -344,7 +344,7 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - 🇰🇭 27.05.23(ML)
-      - 🇸🇬 (ML)
+      - 🇸🇬 (MLB)
       - 🇸🇬VIP ML
       - 【VIP】ML
       - 🇮🇳_IN_印度VIP ML
@@ -424,7 +424,7 @@ proxy-groups:
       - 🎯 全球直连
       - 🚀 节点选择
       - 🇰🇭 27.05.23(ML)
-      - 🇸🇬 (ML)
+      - 🇸🇬 (MLB)
       - 🇸🇬VIP ML
       - 【VIP】ML
       - 🇮🇳_IN_印度VIP ML
@@ -504,7 +504,7 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - 🇰🇭 27.05.23(ML)
-      - 🇸🇬 (ML)
+      - 🇸🇬 (MLB)
       - 🇸🇬VIP ML
       - 【VIP】ML
       - 🇮🇳_IN_印度VIP ML
@@ -601,7 +601,7 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 🇰🇭 27.05.23(ML)
-      - VIP (ML)
+      - VIP (MLB)
       - 🇸🇬VIP ML
       - 【VIP】ML
       - 🇮🇳_IN_印度VIP ML
