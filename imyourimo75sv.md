@@ -20,7 +20,7 @@ dns:
     - tls://dns.google:853
 
 proxies:
-  - {"name":"🇰🇭 27.05.23(ML)","type":"vmess","server":"kh1.vpnjantit.com","port":10000,"cipher":"auto","uuid":"09be4000-f70c-11ed-9f71-2757e87aadae","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vpnjantit","headers":{"host":"168.mobilelegends.com"}}}
+  - {"name":"🇰🇭 27.05.23(ML)","type":"vmess","server":"kh1.vpnjantit.com","port":10000,"cipher":"auto","uuid":"09be4000-f70c-11ed-9f71-2757e87aadae","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vpnjantit","headers":{"host":"168.mobilelegends.com"}}
   - {"name":"🇸🇬 (ML)","type":"trojan","server":"eebf9682-5823-4cbf-b844-aec406de7c9d@do-sg02.sshxvpn.me:443?allowInsecure=1&peer=m.mobilelegends.com&plugin=obfs-local;obfs=websocket;obfs-host=do-sg02.sshxvpn.me;obfs-uri=/@dotycat/trojan","port":443,"udp":true,"password":"eebf9682-5823-4cbf-b844-aec406de7c9d@do-sg02.sshxvpn.me:443?allowInsecure=1&peer=m.mobilelegends.com&plugin=obfs-local;obfs=websocket;obfs-host=do-sg02.sshxvpn.me;obfs-uri=/","sni":"m.mobilelegends.com","skip-cert-verify":true}
   - {"name":"🇸🇬VIP ML","type":"trojan","server":"13.215.194.103","port":443,"udp":true,"password":"4aeda200-44c9-4168-8f2a-a00a72176d35","sni":"m.mobilelegends.com","skip-cert-verify":true}
   - {"name":"【VIP】ML","type":"trojan","server":"138.2.115.240","port":443,"udp":true,"password":"3a2c0c6c-9ee5-c05f-c951-fcd73831983e","sni":"m.mobilelegends.com","skip-cert-verify":true}
